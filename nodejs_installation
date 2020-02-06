@@ -1,0 +1,1140 @@
+: 1561743535:0;ls
+: 1561743632:0;git clone https://github.com/romkatv/powerlevel10k.git $ZSH_CUSTOM/themes/powerlevel10k\
+
+: 1561743658:0;nano .zshrc
+: 1561743669:0;kate .zshrc
+: 1561743680:0;vim .zshrc
+: 1561743787:0;echo $ZSH_CUSTOM
+: 1561743808:0;zsh
+: 1561743810:0;ls
+: 1561743811:0;lsa
+: 1561743836:0;( cd && curl -fsSLO https://raw.githubusercontent.com/romkatv/dotfiles-public/master/.purepower )\
+echo 'source ~/.purepower' >>! ~/.zshrc
+: 1561743839:0;zsh
+: 1561743841:0;ls
+: 1561743843:0;clear
+: 1561743844:0;ls
+: 1561743882:0;cd Documents
+: 1561743885:0;cd
+: 1561743895:0;mkdir Projects
+: 1561743926:0;clear
+: 1561743927:0;ös
+: 1561743929:0;ls
+: 1561743934:0;ls -la
+: 1561743977:0;brew install lsd\
+
+: 1561744082:0;lsd
+: 1561744088:0;lsd -la
+: 1561744141:0;locale
+: 1561744234:0;ls
+: 1561744424:0;brew tap homebrew/cask-fonts\
+
+: 1561744562:0;brew cask install font-firacode-nerd-fontt
+: 1561744565:0;brew cask install font-firacode-nerd-font
+: 1561744724:0;lsd
+: 1561744738:0;lsd -la
+: 1561744748:0;cd Projects
+: 1561744748:0;ls
+: 1561744842:0;git clone https://github.com/antlr/antlr4.git
+: 1561744881:0;ls
+: 1561744882:0;lsd
+: 1561744887:0;cd antlr4
+: 1561744891:0;clear
+: 1561744893:0;lsd
+: 1561744904:0;lsd -la
+: 1561744930:0;cd runtime
+: 1561744931:0;ls
+: 1561744932:0;lsd
+: 1561744936:0;cd Java
+: 1561744938:0;cd ..
+: 1561744950:0;cd Java
+: 1561744951:0;ls
+: 1561744952:0;lsd
+: 1561744957:0;cd src
+: 1561744958:0;lsd
+: 1561744963:0;cd main/dot/org/antlr/v4/runtime/atn/images
+: 1561744964:0;lsd
+: 1561744970:0;cd ..
+: 1561744988:0;cd src/org/antlr/v4/runtime/tree/xpath
+: 1561744989:0;lsd
+: 1561745002:0;nano XPath
+: 1561745004:0;nano XPath.java
+: 1561745061:0;cat XPath.java
+: 1561745104:0;brew install bat
+: 1561745118:0;bat XPath.java
+: 1561745189:0;brew cask install visual-studio-code
+: 1561745250:0;cd 
+: 1561745252:0;cd Projects
+: 1561745255:0;cd antlr4
+: 1561745257:0;code .
+: 1561745301:0;brew cask
+: 1561745308:0;brew cask list
+: 1561745318:0;brew cask list --help
+: 1561745370:0;brew search --casks
+: 1561745382:0;brew search --casks sts
+: 1561745395:0;brew search --casks spring
+: 1561745418:0;brew cask install springtoolsuite
+: 1561746062:0;code .
+: 1561746159:0;java
+: 1561746168:0;brew search --casks java
+: 1561746180:0;brew search --casks openjdk
+: 1561746190:0;brew search openjdk
+: 1561746204:0;brew search --casks jdk
+: 1561746226:0;brew cask install oracle-jdk
+: 1561746492:0;java
+: 1561746499:0;java -version 
+: 1561746512:0;brew search --casks steam
+: 1561746539:0;brew cask install steam
+: 1561746553:0;steam
+: 1561746871:0;cd Projects
+: 1561746875:0;rm -r antlr4
+: 1561746886:0;ls
+: 1561746893:0;cd antlr4
+: 1561746894:0;lsd
+: 1561746899:0;lsd -la
+: 1561747731:0;brew search --casks steam
+: 1561747746:0;brew search --casks dropbox
+: 1561747764:0;brew cask install dropbox
+: 1561748002:0;brew search --casks dart
+: 1561748057:0;clear
+: 1561748058:0;ls
+: 1561748059:0;lsd
+: 1561748072:0;nano .zshrc
+: 1561748160:0;ls
+: 1561748163:0;zsh
+: 1561748166:0;lsd
+: 1561748174:0;zsh
+: 1561748177:0;nano .zshrc
+: 1561748198:0;zsh
+: 1561748200:0;ld
+: 1561748201:0;ls
+: 1561748215:0;l
+: 1561748241:0;neufetch
+: 1561748244:0;neofetch
+: 1561748250:0;brew search --casks dart
+: 1561748255:0;brew search --casks neofetch
+: 1561748267:0;brew install neofetch
+: 1561748452:0;clear
+: 1561748454:0;neofetch
+: 1561748457:0;clear
+: 1561748460:0;python
+: 1561748470:0;clear
+: 1561748486:0;neofetch
+: 1561748506:0;nano .zshrc
+: 1561748527:0;ls
+: 1561802246:0;neofetch
+: 1561912333:0;pwd
+: 1561912348:0;ls
+: 1561912397:0;l
+: 1561912421:0;ls -al
+: 1561912432:0;cd Projects
+: 1561912433:0;ls
+: 1561912437:0;cd antlr4
+: 1561912438:0;ls
+: 1561912440:0;l
+: 1561912445:0;cd ..
+: 1561912450:0;mkdir
+: 1561912465:0;mkdir test
+: 1561912466:0;cd test
+: 1561912506:0;cd ../..
+: 1561912545:0;cd
+: 1561912548:0;pwd
+: 1561912552:0;cd Projects
+: 1561912556:0;cd
+: 1561912558:0;pwd
+: 1561912605:0;cd .
+: 1561912607:0;pwd
+: 1561912677:0;ls
+: 1561912689:0;z antlr
+: 1561912705:0;ls
+: 1561912709:0;echo 
+: 1561912714:0;echo $EDITOR
+: 1561912727:0;cd Projects/test
+: 1561912729:0;cd Projects/
+: 1561912729:0;cd
+: 1561912746:0;cd Projects/test/
+: 1561912760:0;touch hallowelt
+: 1561912771:0;ls
+: 1561912771:0;l
+: 1561912789:0;nano hallowelt
+: 1561912826:0;L
+: 1561912827:0;LS
+: 1561912829:0;ls
+: 1561912831:0;l
+: 1561912840:0;nano hallowelt
+: 1561912909:0;vim hallowelt
+: 1561912963:0;nano hallowelt
+: 1561912972:0;cat hallowelt
+: 1561912978:0;bat hallowelt
+: 1561912988:0;nano hallowelt
+: 1561913005:0;l
+: 1561913011:0;bat hallowelt
+: 1561913013:0;bat hallowelt.dart
+: 1561913090:0;cat hallowelt
+: 1561913172:0;cat hallowelt | grep G
+: 1561913206:0;cat hallowelt | grep G > hw.txt
+: 1561913207:0;ls
+: 1561913210:0;cat hw.txt
+: 1561913218:0;cat hallowelt | grep G >> hw.txt
+: 1561913221:0;cat hw.txt
+: 1561913270:0;brew install fd\
+
+: 1561913337:0;cd
+: 1561913339:0;fd
+: 1561913364:0;fd -e java
+: 1561913393:0;cd Projects
+: 1561913395:0;clear
+: 1561913401:0;fd -e java
+: 1561913423:0;cd
+: 1561913426:0;fd -e pdf
+: 1561913434:0;fd -e pdf spesen
+: 1561913483:0;fd -e pdf spesen -x "wc"
+: 1561913519:0;fd --help
+: 1561913759:0;fd -e pdf spesen -x "cp {} Projects/test/"
+: 1561913780:0;fd -e pdf spesen -x 'cp {} Projects/test/'
+: 1561913783:0;fd -e pdf spesen -x "cp {} Projects/test"
+: 1561913785:0;fd -e pdf spesen -x 'cp {} Projects/test/'
+: 1561913818:0;fd -e pdf spesen -x cp {} Projects/test/
+: 1561913824:0;cd Projects/test/
+: 1561913825:0;ls
+: 1561913826:0;l
+: 1561914071:0;brew install ripgrep
+: 1561914110:0;rg antlr
+: 1561914117:0;cd
+: 1561914119:0;rg antlr
+: 1561914210:0;rg dominik
+: 1561914276:0;rg Olive
+: 1561914296:0;rg Christian Pietzuch
+: 1561914303:0;rg "Christian Pietzuch"
+: 1561914332:0;rg "Christian Pietzuch" | less
+: 1561914356:0;less Projects/test/hallowelt
+: 1561914445:0;brew install fzf
+: 1561914517:0;brew reinstall fzf
+: 1561914537:0;/usr/local/opt/fzf/install
+: 1561914619:0;bat Development/Alte\ Workspaces/workspace2/ANTLR/src/SkillsCompare/Demo.java 
+: 1561914676:0;rg "Christian Pietzuch"
+: 1561914761:0;cat Dropbox/Profil/Christian_Pietzuch_CGI_CV_Resume_English.docx  | less
+: 1561914943:0;brew help
+: 1561914956:0;brew list
+: 1561914987:0;brew fzf info
+: 1561915004:0;brew info fzf
+: 1561915112:0;telnet mapscii.me
+: 1561915119:0;brew install telnet
+: 1561915127:0;telnet mapscii.me
+: 1561915282:0;telnet gameboy.live 1989
+: 1561915399:0;ssh sshtron.zachlatta.com
+: 1561915454:0;ssh red@sshtron.zachlatta.com
+: 1561915467:0;ssh green@sshtron.zachlatta.com
+: 1562009318:0;brew install mongodb
+: 1562012502:0;brew services start mongodb
+: 1562012594:0;brew install postman
+: 1562012605:0;brew install postmann
+: 1562012661:0;brew list
+: 1562012715:0;brew info postman
+: 1562012740:0;brew cask install postman
+: 1562267612:0;docker container ls -a
+: 1562400557:0;brew search --casks 
+: 1562400574:0;brew search --casks nordvpn
+: 1562400624:0;brew cask install nordvpn
+: 1562400772:0;nordvpn
+: 1562400794:0;zsh
+: 1562400798:0;nordvpn
+: 1562400821:0;brew list
+: 1562400840:0;brew cask list
+: 1562401196:0;sysctl -a 
+: 1562401245:0;sysctl -a | grep machdep.cpu.features
+: 1562401255:0;sysctl -a | grep machdep.cpu.features 
+: 1562401279:0;sysctl -a | grep machdep.cpu.features | grep VMX
+: 1562401328:0;kubectl
+: 1562401443:0;brew cask install minikube
+: 1562401549:0;minikube start
+: 1562401687:0;minikube 
+: 1562401705:0;minikube config 
+: 1562401765:0;minikube config set vm-driver vmwarefusion
+: 1562401784:0;minikube delete
+: 1562401791:0;minikube start
+: 1562401951:0;minikube delete
+: 1562401959:0;minikube config set vm-driver vmware
+: 1562401961:0;minikube start
+: 1562401984:0;minikube config set vm-driver vmwarefusion
+: 1562401986:0;minikube start
+: 1562402529:0;	kubectl
+: 1562402608:0;kubectl cluster-info
+: 1562402790:0;kubectl run hello-minikube --image=k8s.gcr.io/echoserver:1.10 --port=8080
+: 1562402858:0;kubectl expose deployment hello-minikube --type=NodePort
+: 1562402875:0;kubectl get pod
+: 1562402958:0;minikube dashboard
+: 1562403036:0;kubectl get pod
+: 1562403058:0;minikube dashboard &
+: 1562403065:0;ls
+: 1562403067:0;l
+: 1562403069:0;clear
+: 1562403072:0;kubectl get pod
+: 1562403089:0;minikube service hello-minikube --url\
+
+: 1562403246:0;ls
+: 1562403282:0;eval $(minikube docker-env)\
+
+: 1562403290:0;l
+: 1562403293:0;clear
+: 1562403293:0;ls
+: 1562403298:0;cd Development
+: 1562403298:0;ls
+: 1562403340:0;docker pull codercom/code-server
+: 1562403707:0;kubectl run code-server --image=codercom/code-server --image-pull-policy=Never --port 8443
+: 1562403712:0;kubectl get pod
+: 1562403848:0;kubectl expose deployment code-server --type=NodePort
+: 1562403861:0;minikube service
+: 1562403864:0;minikube service --list
+: 1562403870:0;minikube service list
+: 1562403936:0;kubectl service list
+: 1562403942:0;kubectl get service
+: 1562404024:0;kubectl
+: 1562404053:0;kubectl logs code-server
+: 1562404069:0;kubectl get pods
+: 1562404070:0;kubectl get pod
+: 1562404109:0;kubectl logs code-server-9b6fc58c6-99bz6
+: 1562404250:0;minikube stop
+: 1562404299:0;kubectl get pod
+: 1562404315:0;ls
+: 1562404369:0;minikube start
+: 1562404413:0;minikube stop
+: 1562404420:0;minikube delete
+: 1562404481:0;brew search --casks riot
+: 1562404500:0;brew cask install riot
+: 1562414349:0;git clone https://github.com/romkatv/powerlevel10k.git $ZSH_CUSTOM/themes/powerlevel10k\
+
+: 1562414357:0;brew list
+: 1562414372:0;brew search
+: 1562414380:0;brew search enterprise
+: 1562415633:0;brew wine
+: 1562415641:0;brew install wine
+: 1562415998:0;			brew list
+: 1562775324:0;pock
+: 1563047961:0;ls -al
+: 1563301615:0;brew search --casks keybase
+: 1563301691:0;brew cask install keybase
+: 1563301838:0;ping solver.cloud
+: 1563301937:0;brew cask install keybase
+: 1563302097:0;brew i gotop
+: 1563302103:0;brew install gotop
+: 1563302116:0;brew search --casks gotop
+: 1563302198:0;brew tap cjbassi/gotop\
+brew install gotop
+: 1563302216:0;gotop
+: 1563303327:0;cd
+: 1563303331:0;cd Projects/antlr_jsgen_server
+: 1563303333:0;code .
+: 1563303385:0;dart bin/main.dart 
+: 1563303397:0;brew search --casks dart
+: 1563303425:0;brew tap dart-lang/dart\
+ brew install dart
+: 1563303581:0;pub get
+: 1563303617:0;dart bin/main.dart 
+: 1563303813:0;git
+: 1563303816:0;git init
+: 1563303823:0;git remote
+: 1563303829:0;git remote get-url origin
+: 1563303848:0;git pull
+: 1563311144:0;gotop
+: 1563615700:0;brew search --casks scan
+: 1563632223:0;dart bin/main.dart 
+: 1563635317:0;git remote add origin https://github.com/it-booster-daisy/dslpractice.git
+: 1563635323:0;git remote 
+: 1563635327:0;git remote remove origin
+: 1563635329:0;git remote add origin https://github.com/it-booster-daisy/dslpractice.git
+: 1563635405:0;git push -u origin master
+: 1563861737:0;sudo pmset -a hibernatemode 25
+: 1564041474:0;git remote show origin
+: 1564041483:0;ls -al
+: 1564041909:0;git remote show origin
+: 1564041918:0;git status
+: 1564041933:0;git push
+: 1564042014:0;git add .
+: 1564042017:0;git status
+: 1564042043:0;git push
+: 1564042073:0;git commit
+: 1564042131:0;git commit 
+: 1564042143:0;git push
+: 1564042166:0;git status
+: 1564042170:0;git add .
+: 1564042272:0;git commit --help
+: 1564042346:0;git commit -m "index"
+: 1564042353:0;git push
+: 1564056272:0;git pull
+: 1564069911:0;brew notepad++
+: 1564069940:0;brew install notepad++
+: 1564069984:0;brew install casc notepad++
+: 1564070007:0;brew cask install notepad++
+: 1564070021:0;brew cask install notepadplusplus
+: 1564070033:0;brew install notepadplusplus
+: 1564070099:0;brew install note
+: 1564070108:0;brew search --casks note
+: 1564070126:0;brew search --casks kate
+: 1564070138:0;brew search --casks text
+: 1564070148:0;brew search --casks atom
+: 1564070165:0;brew install atom
+: 1564070187:0;brew casc install atom
+: 1564070193:0;brew cask install atom
+: 1564070319:0;atom README.md
+: 1564819214:0;ssh chrispiet.master@35.246.240.50
+: 1564819257:0;cd
+: 1564819262:0;cat .ssh/
+: 1564819265:0;CD .ssh
+: 1564819266:0;LS
+: 1564819270:0;cd .ssh
+: 1564819270:0;ls
+: 1564819275:0;cd ..
+: 1564819325:0;ssh-keygen -t rsa -b 4096 -C "chrispiet.master"
+: 1564819341:0;ls
+: 1564819350:0;cat .ssh/id_rsa.pub
+: 1564819412:0;ssh chrispiet.master@35.246.240.50
+: 1564820975:0;cd .oh-my-zsh/themes
+: 1564820976:0;ls
+: 1564820979:0;cd ..
+: 1564820981:0;cd custom
+: 1564820982:0;ls
+: 1564820985:0;cd plugins
+: 1564820986:0;ls
+: 1564820987:0;cd ..
+: 1564820989:0;cd themes
+: 1564820989:0;ls
+: 1564820992:0;cd powerlevel10k
+: 1564820995:0;git pull
+: 1564821021:0;p10k 
+: 1564821028:0;p10k configure
+: 1564821138:0;ls
+: 1564821139:0;clear
+: 1564821139:0;ls
+: 1564821144:0;cd Desktop
+: 1564821146:0;cd ..
+: 1564821159:0;ls
+: 1564821170:0;l
+: 1564821172:0;ls
+: 1564821173:0;l
+: 1564821199:0;ls
+: 1564821205:0;ssh chrispiet.master@35.246.240.50
+: 1565189906:0;minikube
+: 1565189911:0;minikube start
+: 1565190243:0;minikube version
+: 1565191657:0;kubectl version
+: 1565191981:0;kubectl cluster-version
+: 1565191998:0;kubectl cluster-info
+: 1565192334:0;kubectl get nodes
+: 1565192912:0;kubectl run kubernetes-bootcamp -- image=gcr.io/google-samples/kubernetes-bootcamp:v1--port=8080
+: 1565280788:0;ls
+: 1565280804:0;ls -al
+: 1565431232:0;ls
+: 1565431234:0;cd Library
+: 1565431244:0;rga
+: 1565431257:0;rg 
+: 1565431266:0;rg "abc123"
+: 1565431291:0;fd safari
+: 1565431614:0;rg "abc123"
+: 1565431654:0;grep -r 'abc123' .
+: 1565431664:0;grep --help
+: 1565431677:0;ls
+: 1565431679:0;grep --help
+: 1565431680:0;grep -r 'abc123' .
+: 1565431812:0;grep -r 'abc123' Safari
+: 1565431817:0;cd Safari
+: 1565431818:0;ls
+: 1565431820:0;cd ..
+: 1565431897:0;sudo grep -r 'abc123' Safari
+: 1565432025:0;ls
+: 1565432355:0;cd Library
+: 1565432362:0;grep -r 'abc123' Safari
+: 1565432367:0;cd Safari
+: 1565432367:0;ls
+: 1565432370:0;cd ..
+: 1565432372:0;cd Containers
+: 1565432381:0;grep -r 'abc123' com.apple.Safari
+: 1565432517:0;ls
+: 1565432538:0;cd ..
+: 1565432542:0;cd Caches
+: 1565432574:0;cd ..
+: 1565432637:0;grep -r 'abc123' .
+: 1565432727:0;cat "Application Support/Steam/Steam.AppBundle/Steam/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/Current/Resources/ja.lproj/locale.pak"
+: 1565432759:0;grep -r 'abc123' .
+: 1565433272:0;fd safari
+: 1565433280:0;grep -r 'abc123' Safari
+: 1565433284:0;grep -r 'abc123' SafariSafeBrowsing
+: 1565433290:0;grep -r 'abc123' Preference
+: 1565433292:0;grep -r 'abc123' Preferences
+: 1565433301:0;grep -r 'abc123' Saved\ Application\ State
+: 1565433314:0;cd Saved\ Application\ State
+: 1565433315:0;ls
+: 1565433321:0;grep -r 'abc123' .
+: 1565433340:0;cd com.apple.Safari.savedState
+: 1565433341:0;ls
+: 1565433344:0;grep -r 'abc123' .
+: 1565433349:0;l
+: 1565433362:0;cat window_1.data
+: 1565433373:0;cat window_2.data
+: 1565433379:0;ls
+: 1565433384:0;cat windows.plist
+: 1565433405:0;cd ../..
+: 1565433409:0;fd safari
+: 1565433471:0;ls Safari
+: 1565435459:0;cd ..
+: 1565435793:0;docker ps
+: 1565435833:0;minikube
+: 1565435872:0;kubectl get services
+: 1565435904:0;pwd
+: 1565435909:0;kubectl get services
+: 1565435954:0;kubectl dashboard
+: 1565435974:0;minikube dashboard
+: 1565436005:0;kubectl get deployments
+: 1565436075:0;sudo kubectl get deployments
+: 1565436099:0;sudo kubectl get services
+: 1565548028:0;brew 7zip
+: 1565548154:0;brew install p7zip
+: 1565550008:0;/Users/christianpietzuch/Documents/Projekt/Zeitreihenwerkzeuge\ Konjunktur-Projekt_Ver02/Server-Konfiguration ; exit;
+: 1565794822:0;/Users/christianpietzuch/Documents/Projekt/Zeitreihenwerkzeuge\ Konjunktur-Projekt_Ver02/1_Container/Entwicklung/JSON-Beispiel ; exit;
+: 1565815551:0;brew tap caskroom/cask && brew cask install gimp
+: 1565895005:0;git clone https://github.com/antlr/antlr4.git
+: 1565895188:0;pwd
+: 1565895193:0;ls .al
+: 1565895197:0;ls -al
+: 1565895211:0;pwd
+: 1565895685:0;git clone https://github.com/it-booster-daisy/dslpractice
+: 1565959736:0;pwd
+: 1565959743:0;ls
+: 1565959753:0;cd Projects
+: 1565959755:0;ls
+: 1565959759:0;ls -al
+: 1565959763:0;cd test
+: 1565959766:0;ls
+: 1565959772:0;cd ..
+: 1565959779:0;mkdir gittest
+: 1565959782:0;cd gittest
+: 1565959789:0;git clone https://github.com/it-booster-daisy/dslpractice
+: 1565959841:0;ls
+: 1565959844:0;ls -al
+: 1565959848:0;cd dslpractice
+: 1565959849:0;ls
+: 1565959852:0;ls -al
+: 1566066049:0;df -h
+: 1566066238:0;brew search --casks bluray
+: 1566066401:0;brew cask install blu-ray-player
+: 1566066618:0;speedtest
+: 1566066636:0;brew install speedtest-cli
+: 1566066698:0;brew install gcc
+: 1566066832:0;brew cask install blu-ray-player
+: 1566113232:0;sudo docker container ls
+: 1566113426:0;ls
+: 1566113569:0;find Dockerfile
+: 1566113576:0;find Dockerfile .
+: 1566118150:0;fd Dockerfile
+: 1566119659:0;sudo docker container ls
+: 1566120040:0;pwd
+: 1566120049:0;cd Projects
+: 1566120050:0;ls
+: 1566120056:0;cd gittest
+: 1566120057:0;ls
+: 1566120061:0;cd dslpractice
+: 1566120063:0;ls
+: 1566120070:0;sudo dockel ls
+: 1566120089:0;sudo docker ls
+: 1566120103:0;sudo docker image ls
+: 1566120210:0;hello-world
+: 1566120385:0;docker ps
+: 1566120429:0;docker ps -a
+: 1566120454:0;/hello
+: 1566120580:0;docker start ae38bd075ee0
+: 1566120586:0;docker ps
+: 1566120595:0;docker ps -a
+: 1566120619:0;fd hello-world
+: 1566120626:0;fd hello
+: 1566120816:0;docker stop ae38bd075ee0
+: 1566120823:0;docker ps -a
+: 1566120849:0;docker stop ae38bd075ee0
+: 1566120852:0;docker ps -a
+: 1566120882:0;docker ps
+: 1566120888:0;docker start ae38bd075ee0
+: 1566120892:0;docker ps
+: 1566120899:0;sudo docker ps
+: 1566120911:0;docker ps
+: 1566122055:0;docker --version
+: 1566122132:0;cd ..
+: 1566122173:0;mkdir udemy1
+: 1566122176:0;cd udemy1
+: 1566122178:0;ls
+: 1566122539:0;git clone https://github.com/wardviaene/docker-demo
+: 1566122545:0;ls
+: 1566122549:0;cd docker-demo
+: 1566122550:0;ls
+: 1566122552:0;ls -al
+: 1566123340:0;sudo docker build .
+: 1566125188:0;docker ps
+: 1566125193:0;docker ps -a
+: 1566125551:0;docker run -p 3000:3000 -t 73ef58e8f1bc
+: 1566125617:0;docker ps
+: 1566125632:0;docker ps -a
+: 1566126794:0;docker run hello-world
+: 1566126815:0;docker ps
+: 1566126820:0;docker ps ls
+: 1566126825:0;docker ps -a
+: 1566132358:0;docker ps --all
+: 1566137316:0;mkdir myfirstdocker
+: 1566137318:0;cd myfirstdocker
+: 1566137457:0;ls
+: 1566137556:0;docker build -t java-app .
+: 1566138119:0;docker run java-app
+: 1566138174:0;docker ps
+: 1566138180:0;docker ps -a
+: 1566138332:0;cd /var
+: 1566138338:0;cd www
+: 1566138347:0;ls
+: 1566138369:0;pwd
+: 1566138389:0;ls -al
+: 1566151237:0;docker ps -a
+: 1566151250:0;docker run java-app
+: 1566151258:0;docker ps -a
+: 1566151276:0;java Hello
+: 1566151281:0;java
+: 1566151288:0;docker ps -a
+: 1566214726:0;/usr/local/opt/python/bin/python3.7 -m pip install -U pylint --user
+: 1566214776:0;python
+: 1566214790:0;pwd
+: 1566214802:0;ls -al
+: 1566214807:0;cd Projects
+: 1566214811:0;cd VSCProjects
+: 1566214813:0;ls -al
+: 1566214872:0;python template.py TestApp TestProj TestPackage
+: 1566214942:0;python template.py TestApp
+: 1566214967:0;ls
+: 1566215007:0;python template.py MicroSvc TestProj TestPack
+: 1566215059:0;python template.py MicroSvc "TestProj" "TestPack"
+: 1566215565:0;ls
+: 1566215605:0;python template.py MicroSvc tatata hhh
+: 1566215614:0;python template.py "MicroSvc" tatata hhh
+: 1566215623:0;python template.py "MicroSvc" "tatata" "hhh"
+: 1566215696:0;python template.py 
+: 1566215844:0;python template.py ughuhgu uhu uhu
+: 1566215905:0;pip
+: 1566215926:0;python template.py ughuhgu uhu uhu
+: 1566215990:0;/usr/local/opt/python/bin/python3.7 /Users/christianpietzuch/.vscode/extensions/ms-python.python-2019.8.30787/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 50407 /Users/christianpietzuch/Projects/VSCProjects/template.py 
+: 1566216014:0;python template.py ughuhgu uhu uhu
+: 1566216068:0;cd /Users/christianpietzuch/Projects/VSCProjects ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/local/opt/python/bin/python3.7 /Users/christianpietzuch/.vscode/extensions/ms-python.python-2019.8.30787/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 50413 /Users/christianpietzuch/Projects/VSCProjects/template.py 
+: 1566216207:0;python template.py MicroApp hhhahg shshsh
+: 1566216217:0;python template.py MicroApp "jjj" "jjjj"
+: 1566216228:0;python template.py "MicroApp" "jjj" "jjjj"
+: 1566216281:0;python template.py "MicroApp" "Test" "hhh"
+: 1566216289:0;python template.py MicroApp "Test" "hhh"
+: 1566216294:0;python template.py MicroApp Test "hhh"
+: 1566216298:0;python template.py MicroApp Test hhh
+: 1566216452:0;cd musterprozess
+: 1566216459:0;cd DevOps/TemplateBuilder
+: 1566216461:0;ls
+: 1566216471:0;python template.py MicroApp Test hhh
+: 1566216479:0;python template.py MicroApp "Test" "hhh"
+: 1566216488:0;python template.py "MicroApp" "Test" "hhh"
+: 1566216534:0;python template.py MicroApp "Test" "hhh"
+: 1566216739:0;python template.py "MicroApp" "Test" "hhh"
+: 1566216906:0;ls
+: 1566216906:0;s
+: 1566216908:0;ls
+: 1566216922:0;cat > .git
+: 1566216938:0;ls
+: 1566216941:0;ls -al
+: 1566216948:0;python template.py "MicroApp" "Test" "hhh"
+: 1566216978:0;python template.py "MicroApp" "Test""hhh\
+"
+: 1566217015:0;python template.py "MicroApp" "Test" "hhh"\
+"\
+"
+: 1566217029:0;python template.py "MicroApp" Test hhh
+: 1566217041:0;python template.py MicroApp Test hhh
+: 1566217059:0;python template.py MicroApp "Test" "hhh"
+: 1566217080:0;python template.py MicroApp Test hhh
+: 1566217222:0;python template.py "MicroApp" Test hhh
+: 1566217231:0;python template.py "MicroApp" "Test" "hhh"
+: 1566217278:0;python template.py MicroApp Test hhh
+: 1566217393:0;cd /Users/christianpietzuch/Projects/VSCProjects ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/local/opt/python/bin/python3.7 /Users/christianpietzuch/.vscode/extensions/ms-python.python-2019.8.30787/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 50470 /Users/christianpietzuch/Projects/VSCProjects/musterprozess/DevOps/TemplateBuilder/template.py 
+: 1566217406:0;cd /Users/christianpietzuch/Projects/VSCProjects ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/local/opt/python/bin/python3.7 /Users/christianpietzuch/.vscode/extensions/ms-python.python-2019.8.30787/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 50473 /Users/christianpietzuch/Projects/VSCProjects/musterprozess/DevOps/TemplateBuilder/template.py 
+: 1566217883:0;cd /Users/christianpietzuch/Projects/VSCProjects ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/local/opt/python/bin/python3.7 /Users/christianpietzuch/.vscode/extensions/ms-python.python-2019.8.30787/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 50522 /Users/christianpietzuch/Projects/VSCProjects/.vscode/launch.json 
+: 1566217913:0;cd /Users/christianpietzuch/Projects/VSCProjects ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/local/opt/python/bin/python3.7 /Users/christianpietzuch/.vscode/extensions/ms-python.python-2019.8.30787/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 50526 /Users/christianpietzuch/Projects/VSCProjects/.vscode/launch.json 
+: 1566217943:0;cd /Users/christianpietzuch/Projects/VSCProjects ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/local/opt/python/bin/python3.7 /Users/christianpietzuch/.vscode/extensions/ms-python.python-2019.8.30787/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 50529 /Users/christianpietzuch/Projects/VSCProjects/.vscode/launch.json 
+: 1566218661:0;cd /Users/christianpietzuch/Projects/VSCProjects ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/local/opt/python/bin/python3.7 /Users/christianpietzuch/.vscode/extensions/ms-python.python-2019.8.30787/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 50626 /Users/christianpietzuch/Projects/VSCProjects/.vscode/launch.json MicroSvc Test Test2 
+: 1566218741:0;cd /Users/christianpietzuch/Projects/VSCProjects ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/local/opt/python/bin/python3.7 /Users/christianpietzuch/.vscode/extensions/ms-python.python-2019.8.30787/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 50630 /Users/christianpietzuch/Projects/VSCProjects/.vscode/launch.json MicroSvc Test Test2 
+: 1566218952:0;cd /Users/christianpietzuch/Projects/VSCProjects ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/local/opt/python/bin/python3.7 /Users/christianpietzuch/.vscode/extensions/ms-python.python-2019.8.30787/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 50640 /Users/christianpietzuch/Projects/VSCProjects/musterprozess/DevOps/TemplateBuilder/template.py MicroSvc Test Test2 
+: 1566219104:0;pwd
+: 1566219225:0;python template.py "MicroApp" "Test" "hhh"
+: 1566219237:0;python template.py MicroApp Test hhh
+: 1566219243:0;ls
+: 1566219250:0;cd musterprozess
+: 1566219252:0;ls
+: 1566219256:0;cd DevOps
+: 1566219258:0;ls
+: 1566219262:0;cd TemplateBuilder
+: 1566219263:0;ls
+: 1566219268:0;python template.py MicroApp Test hhh
+: 1566219293:0;python template.py MicroApp Test 'hhh'
+: 1566219298:0;python template.py MicroApp 'Test' 'hhh'
+: 1566219315:0;python template.py MicroApp Test hhhcd /Users/christianpietzuch/Projects/VSCProjects ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/local/opt/python/bin/python3.7 /Users/christianpietzuch/.vscode/extensions/ms-python.python-2019.8.30787/pythonFiles/ptvsd_launcher.py --default --nodebug --client --host localhost --port 50656 /Users/christianpietzuch/Projects/VSCProjects/musterprozess/DevOps/TemplateBuilder/template.py MicroSvc Test Test2 
+: 1566219347:0;cd /Users/christianpietzuch/Projects/VSCProjects ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/local/opt/python/bin/python3.7 /Users/christianpietzuch/.vscode/extensions/ms-python.python-2019.8.30787/pythonFiles/ptvsd_launcher.py --default --nodebug --client --host localhost --port 50659 /Users/christianpietzuch/Projects/VSCProjects/musterprozess/DevOps/TemplateBuilder/template.py MicroSvc Test Test2 
+: 1566219721:0;cd /Users/christianpietzuch/Projects/VSCProjects ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/local/opt/python/bin/python3.7 /Users/christianpietzuch/.vscode/extensions/ms-python.python-2019.8.30787/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 50691 /Users/christianpietzuch/Projects/VSCProjects/.vscode/launch.json MicroSvc SASManagement SASMicroservice 
+: 1566219773:0;cd /Users/christianpietzuch/Projects/VSCProjects ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/local/opt/python/bin/python3.7 /Users/christianpietzuch/.vscode/extensions/ms-python.python-2019.8.30787/pythonFiles/ptvsd_launcher.py --default --nodebug --client --host localhost --port 50693 /Users/christianpietzuch/Projects/VSCProjects/.vscode/launch.json MicroSvc SASManagement SASMicroservice 
+: 1566219845:0;cd /Users/christianpietzuch/Projects/VSCProjects ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/local/opt/python/bin/python3.7 /Users/christianpietzuch/.vscode/extensions/ms-python.python-2019.8.30787/pythonFiles/ptvsd_launcher.py --default --nodebug --client --host localhost --port 50696 /Users/christianpietzuch/Projects/VSCProjects/.vscode/launch.json MicroSvc Test Test2 
+: 1566219910:0;cd /Users/christianpietzuch/Projects/VSCProjects ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/local/opt/python/bin/python3.7 /Users/christianpietzuch/.vscode/extensions/ms-python.python-2019.8.30787/pythonFiles/ptvsd_launcher.py --default --nodebug --client --host localhost --port 50700 /Users/christianpietzuch/Projects/VSCProjects/musterprozess/DevOps/TemplateBuilder/template.py MicroSvc Test Test2 
+: 1566219923:0;python template.py MicroApp 'Test' 'hhh'
+: 1566219926:0;pwd
+: 1566219957:0;cd /Users/christianpietzuch/Projects/VSCProjects ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/local/opt/python/bin/python3.7 /Users/christianpietzuch/.vscode/extensions/ms-python.python-2019.8.30787/pythonFiles/ptvsd_launcher.py --default --nodebug --client --host localhost --port 50703 /Users/christianpietzuch/Projects/VSCProjects/musterprozess/DevOps/TemplateBuilder/template.py MicroSvc Test Test2 
+: 1566220001:0;cd /Users/christianpietzuch/Projects/VSCProjects ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/local/opt/python/bin/python3.7 /Users/christianpietzuch/.vscode/extensions/ms-python.python-2019.8.30787/pythonFiles/ptvsd_launcher.py --default --nodebug --client --host localhost --port 50705 /Users/christianpietzuch/Projects/VSCProjects/musterprozess/DevOps/TemplateBuilder/template.py MicroSvc Test SASManager 
+: 1566220033:0;cd /Users/christianpietzuch/Projects/VSCProjects ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/local/opt/python/bin/python3.7 /Users/christianpietzuch/.vscode/extensions/ms-python.python-2019.8.30787/pythonFiles/ptvsd_launcher.py --default --nodebug --client --host localhost --port 50708 /Users/christianpietzuch/Projects/VSCProjects/musterprozess/DevOps/TemplateBuilder/template.py MicroSvc Test SASManager 
+: 1566222568:0;cd /Users/christianpietzuch/Projects/VSCProjects ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/local/opt/python/bin/python3.7 /Users/christianpietzuch/.vscode/extensions/ms-python.python-2019.8.30787/pythonFiles/ptvsd_launcher.py --default --nodebug --client --host localhost --port 50731 /Users/christianpietzuch/Projects/VSCProjects/musterprozess/DevOps/TemplateBuilder/template.py MicroSvc SASManagement SASManager 
+: 1566222586:0;cd /Users/christianpietzuch/Projects/VSCProjects ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/local/opt/python/bin/python3.7 /Users/christianpietzuch/.vscode/extensions/ms-python.python-2019.8.30787/pythonFiles/ptvsd_launcher.py --default --nodebug --client --host localhost --port 50733 /Users/christianpietzuch/Projects/VSCProjects/musterprozess/DevOps/TemplateBuilder/template.py MicroSvc SASManagement SASManager 
+: 1566222630:0;cd /Users/christianpietzuch/Projects/VSCProjects ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/local/opt/python/bin/python3.7 /Users/christianpietzuch/.vscode/extensions/ms-python.python-2019.8.30787/pythonFiles/ptvsd_launcher.py --default --nodebug --client --host localhost --port 50735 /Users/christianpietzuch/Projects/VSCProjects/musterprozess/DevOps/TemplateBuilder/template.py MicroSvc SASManagement SASManager 
+: 1566719258:0;java
+: 1566719262:0;java -version
+: 1566719509:0;fd java
+: 1566719516:0;find java
+: 1566719522:0;find
+: 1566719601:0;brew openjdk
+: 1566719664:0;brew search --casks java
+: 1566719771:0;brew tap AdoptOpenJDK/openjdk
+: 1566719831:0;brew install adaptopenjdk-openjdk11
+: 1566719845:0;brew install adaptopenjdk-openjdk10
+: 1566719861:0;brew install adoptopenjdk-openjdk11
+: 1566719868:0;brew install adoptopenjdk-openjdk10
+: 1566719899:0;brew install adoptopenjdk-openjdk11
+: 1566720071:0;brew cask install adoptopenjdk-openjdk11
+: 1566720121:0;brew cask install adoptopenjdk
+: 1566720471:0;ls -al
+: 1566721092:0;docker ps
+: 1566721099:0;docker ps -all
+: 1566721173:0;cat Hello.java
+: 1566721216:0;docker run hello-world
+: 1566721234:0;ls
+: 1566721247:0;cat Hello.java
+: 1566721266:0;docker run hello
+: 1566721285:0;docker ps -all
+: 1566721341:0;ls -al
+: 1566721490:0;docker ps -all
+: 1566721559:0;docker build -t Hello.java
+: 1566721579:0;cat Dockerfile
+: 1566721593:0;docker build .
+: 1566721601:0;docker ps -all
+: 1566721614:0;docker ps -a
+: 1566721658:0;docker run -it 73ede4ea452b
+: 1566721676:0;docker run -it 73ede4ea452b sh
+: 1566721715:0;docker run -it 757c7cda8588 sh
+: 1566721822:0;docker run 757c7cda8588
+: 1566721837:0;docker run java-app
+: 1566721980:0;docker create java-app
+: 1566721995:0;docker start 997248a249e0fe912a6b5cf5dc37ad7e190fda21d0913ab21ed13f8c14df5bf7
+: 1566722000:0;docker run java-app
+: 1566722008:0;docker build .
+: 1566722011:0;docker run java-app
+: 1566722028:0;docker run 94d749ca3aad
+: 1566722047:0;docker build .
+: 1566722067:0;docker run 4cb3d85db08e
+: 1566722082:0;docker ps -a
+: 1566722779:0;brew search --casks jdk
+: 1566807464:0;docker ps -a
+: 1566810414:0;docker run 4cb3d85db08e
+: 1566813890:0;minikube status
+: 1566813922:0;minikube start
+: 1566814028:0;minikube status
+: 1566814099:0;kubectl cluster-info
+: 1566825046:0;minikube status
+: 1566825094:0;kubectl cluster-info
+: 1566826092:0;kubectl get pods
+: 1566826236:0;ls -al
+: 1566826239:0;cd ..
+: 1566826242:0;ls
+: 1566826258:0;mkdir myfirstkubernetes
+: 1566826267:0;ls
+: 1566826275:0;ls -al
+: 1566826281:0;cd myfirstkubernetes
+: 1566826282:0;ls
+: 1566826831:0;ls -al
+: 1566827086:0;kubectl get pods
+: 1566827103:0;kubectl apply -f client-node-port.yaml
+: 1566827133:0;kubectl apply -f client-pod.yaml
+: 1566827794:0;pwd
+: 1566827810:0;rm /usr/local/bin/kubectl
+: 1566827811:0;ls
+: 1566827857:0;brew link --overwrite kubernetes-cli
+: 1566827874:0;kubectl apply -f client-pod.yaml
+: 1566827882:0;ls
+: 1566827891:0;kubectl apply -f client-pod.yaml
+: 1566827906:0;ls
+: 1566827918:0;kubectl status
+: 1566827946:0;kubectl get pods
+: 1566827962:0;kubectl cluster-in
+: 1566827969:0;kubectl cluster-info
+: 1566827996:0;minikube status
+: 1566828012:0;kubectl apply -f client-pod.yaml
+: 1566828078:0;kubectl apply -f client-node-port.yaml
+: 1566828171:0;minikube status
+: 1566828178:0;kubectl cluster-info
+: 1566828185:0;kubectl get pods
+: 1566828205:0;kubectl apply -f client-node-port.yaml
+: 1566828995:0;kubectl get pods
+: 1566829045:0;kubectl get services
+: 1566829436:0;minikube ip
+: 1566831268:0;docker ps
+: 1566831275:0;docker ps -a
+: 1566831403:0;kubectl get pods
+: 1566833156:0;kubectl apply -f client-pod.yaml
+: 1566833168:0;cd Schulung\ Demo\ 2
+: 1566833170:0;ls 
+: 1566833173:0;kubectl apply -f client-pod.yaml
+: 1566833206:0;ls
+: 1566833311:0;kubectl apply -f client-pod.yaml
+: 1566833345:0;kubectl describe pod client-pod
+: 1566835588:0;ls
+: 1566835591:0;ls -al
+: 1566835601:0;kubectl apply -f client-deployment.yaml
+: 1566835743:0;kubectl delete -f client-pod.yaml
+: 1566835757:0;kubectl get pods
+: 1566835761:0;kubectl apply -f client-deployment.yaml
+: 1566835842:0;kubectl get pods
+: 1566835844:0;kubectl apply -f client-deployment.yaml
+: 1566835900:0;kubectl get pods
+: 1566835959:0;kubectl get deployments
+: 1566853337:0;docker ps -all
+: 1566853340:0;docker ps -a
+: 1566853364:0;cd ..
+: 1566853529:0;cd antlr_jsgen_server
+: 1566853531:0;ls -al
+: 1566853609:0;docker build .
+: 1566854343:0;ls -al
+: 1566854350:0;git pull
+: 1566854583:0;dcker ps
+: 1566854587:0;docker ps
+: 1566854596:0;docker ps -a
+: 1566854645:0;cat pubspec.yaml
+: 1566854702:0;sudo docker run -p 80:8080 chrispiet/dslpractice
+: 1566854739:0;sudo docker build -t chrispiet/dslpractice-jre .
+: 1566855295:0;docker ps -a
+: 1566855338:0;sudo docker build -t chrispiet/dslpractice-jre .
+: 1566855352:0;docker ps -a
+: 1566855362:0;sudo docker run -p 80:8080 chrispiet/dslpractice
+: 1566979780:0;npm
+: 1566979790:0;brew install npm
+: 1566980057:0;npm
+: 1566980075:0;npm test
+: 1566980085:0;npm update
+: 1566980092:0;npm install
+: 1566980099:0;brew install npm
+: 1567003364:0;npm start
+: 1567003408:0;npm init
+: 1567003720:0;npm start
+: 1567003806:0;pwd
+: 1567003810:0;ls
+: 1567003815:0;ls -al
+: 1567003826:0;cd .npm
+: 1567003827:0;ls -al
+: 1567003845:0;cd _logs
+: 1567003846:0;ls -al
+: 1567003888:0;cat 2019-08-28T14_4
+: 1567003911:0;cat 2019-08-28T14_48_40_359Z-debug.log
+: 1567004073:0;npm run clean
+: 1567004105:0;npm cache clean --force
+: 1567004136:0;npm start
+: 1567004139:0;npm cache clean --force
+: 1567004162:0;npm install
+: 1567004213:0;npm update
+: 1567004222:0;npm start
+: 1567006111:0;ls -al
+: 1567006131:0;npm start
+: 1567006245:0;npm stop
+: 1567006257:0;npm stop hello-world
+: 1567006308:0;npm-restart 
+: 1567006320:0;npm stop hello-world
+: 1567006424:0;react-scripts stop
+: 1567006453:0;npm stop
+: 1567006541:0;ps
+: 1567006556:0;npm test
+: 1567006601:0;npm eject
+: 1567006626:0;npm start
+: 1567006893:0;pwd
+: 1567006899:0;cd ..
+: 1567006902:0;ls
+: 1567006908:0;ls -al
+: 1567006931:0;cd .m2
+: 1567006933:0;ls -al
+: 1567006962:0;pwd
+: 1567006979:0;cd Documents
+: 1567006980:0;ls
+: 1567006990:0;cd Projekt
+: 1567006992:0;ls -al
+: 1567015112:0;cd webapp
+: 1567015113:0;ls
+: 1567015133:0;npm i
+: 1567015187:0;npm build
+: 1567015196:0;npm run-script build
+: 1567015236:0;xcode-select
+: 1567015238:0;xcode-select -p
+: 1567015244:0;npm --version
+: 1567015291:0;npm upgrade
+: 1567015340:0;brew 
+: 1567015346:0;brew list --isntalled#
+: 1567015351:0;brew list --installed
+: 1567015356:0;node --version
+: 1567015383:0;npm --version
+: 1567015386:0;node --version
+: 1567015419:0;npm i
+: 1567015481:0;xcode-select --install
+: 1567015600:0;npm i
+: 1567015666:0;zsh
+: 1567015668:0;npm i
+: 1567015700:0;xcode-select --install # Install Command Line Tools if you haven't already.\
+sudo xcode-select --switch /Library/Developer/CommandLineTools # Enable command line tools
+: 1567015729:0;\
+sudo xcode-select --switch /Library/Developer/CommandLineTools # Enable command line tools
+: 1567015733:0;\
+sudo xcode-select --switch /Library/Developer/CommandLineTools
+: 1567015736:0;npm i
+: 1567015834:0;npm install node-sass
+: 1567015889:0;npm i
+: 1567015933:0;npm run-script build
+: 1567016052:0;npm outdated
+: 1567016181:0;npm i
+: 1567016203:0;npm run-script build
+: 1567016246:0;npm audit fix
+: 1567016272:0;npm run-script build
+: 1567016398:0;node -v
+: 1567016440:0;brew update\
+brew install nvm\
+mkdir ~/.nvm\
+nano ~/.bash_profile
+: 1567016506:0;nano ~/.zshrc
+: 1567016528:0;zsh
+: 1567016531:0;nvm
+: 1567016552:0;nvm install 
+: 1567016554:0;nvm install
+: 1567016576:0;nvm --version
+: 1567016649:0;nvm install --lts\
+
+: 1567016663:0;nvm use --lts\
+
+: 1567016668:0;node --version
+: 1567016674:0;nvm use --lt\
+
+: 1567016676:0;nvm list
+: 1567016703:0;node
+: 1567016709:0;node --version
+: 1567016714:0;cd webapp
+: 1567016716:0;npm i
+: 1567016844:0;npm run
+: 1567016856:0;npm run serve:dev
+: 1567016949:0;npm i
+: 1567016968:0;clear
+: 1567016970:0;npm run serve:dev
+: 1567017765:0;ls
+: 1567017767:0;cd ..
+: 1567017768:0;l
+: 1567017769:0;ls
+: 1567017825:0;mvn install
+: 1567017885:0;brew install maven
+: 1567017921:0;mvn
+: 1567017968:0;mvn install
+: 1567018922:0;cd de.stba.e202.zrw.ms.kennzeichen
+: 1567018925:0;mnv install
+: 1567018929:0;mvn install
+: 1567018955:0;mvn 
+: 1567018973:0;mvn install clean
+: 1567018986:0;mvn
+: 1567019012:0;mvn initialize
+: 1567019020:0;mvn run
+: 1567019083:0;mvn install clean --skip-tests
+: 1567019142:0;mvn install -DskipTests
+: 1567019270:0;mvn install 
+: 1567104678:0;cd Projects/Destatis/JeromesCode/dtest/de.stba.e202.zrw.ms.kennzeichen
+: 1567104680:0;cd webapp
+: 1567104684:0;node --version
+: 1567104687:0;nvm
+: 1567104694:0;nvm use 8.0
+: 1567104700:0;nvm install 8
+: 1567104720:0;nvm use 8
+: 1567104726:0;npm i
+: 1567104749:0;cat package
+: 1567104753:0;cat package.json
+: 1567104756:0;rm package-lock.json
+: 1567104758:0;npm i
+: 1567104786:0;cat /Users/christianpietzuch/.npm/_logs/2019-08-29T18_52_44_954Z-debug.log
+: 1567104863:0;ping 1.1.1.1
+: 1567104894:0;cd ..-..
+: 1567104899:0;cd ../..
+: 1567104904:0;mkdir neu
+: 1567104906:0;cd neu
+: 1567104953:0;cp ../../../../Destatis/JeromesCode/Code10.08/* .
+: 1567104959:0;cp -r ../../../../Destatis/JeromesCode/Code10.08/* .
+: 1567104979:0;ls
+: 1567104985:0;rm Jeromes\ Code\ Stand\ 10.08.2019_Untitled.zip
+: 1567104986:0;ls
+: 1567104990:0;cd de.stba.e202.zrw.ms.kennzeichen
+: 1567104991:0;cd webapp
+: 1567104992:0;ls
+: 1567104995:0;npm i
+: 1567105062:0;npm run serve:dev
+: 1567105077:0;ls
+: 1567105080:0;npm i
+: 1567105173:0;npm i --save-dev react react-dom
+: 1567105191:0;npm i
+: 1567105204:0;npm run serve:dev
+: 1567105261:0;npm install --save-dev webpack-dev-server
+: 1567105287:0;npm run serve:dev
+: 1567105290:0;npm install --save-dev webpack-dev-server
+: 1567105338:0;rm node_modules/.bin/webpack-dev-server
+: 1567105340:0;npm install --save-dev webpack-dev-server
+: 1567105371:0;rm -r node_modules
+: 1567105377:0;npm i
+: 1567105410:0;ls node_modules
+: 1567105441:0;npm run serve:dev
+: 1567105483:0;code .
+: 1567105594:0;npm run serve:dev --fix
+: 1567106255:0;cd
+: 1567106272:0;tail .zsh_history -n 100
+: 1567106279:0;tail .zsh_history 
+: 1567106290:0;code .zsh_history
+: 1567106519:0;cd ..
+: 1567106526:0;code . -w
+: 1567106562:0;mvn update
+: 1567106571:0;mvn install
+: 1567165495:0;tail .zsh_history -n 100
+: 1567165504:0;code .zsh_history
+: 1567165539:0;ls node_modules
+: 1567165737:0;tail .zsh_history -n 100
+: 1567172743:0;p0wd
+: 1567172745:0;pwd
+: 1567172752:0;cd ./
+: 1567172753:0;pwd
+: 1567172760:0;cd /
+: 1567172762:0;pwd
+: 1567172767:0;ls
+: 1567172813:0;cd Users
+: 1567172815:0;ls
+: 1567172820:0;cd christianpietzuch
+: 1567172822:0;ls
+: 1567172826:0;cd Projects
+: 1567172830:0;ls
+: 1567172838:0;cd Destatis
+: 1567172839:0;ls
+: 1567172849:0;#cd Code10.08
+: 1567172855:0;cd Code10.08
+: 1567172857:0;ls
+: 1567172871:0;cd de.stba.e202.zrw.ms.kennzeichen
+: 1567172872:0;ls
+: 1567172879:0;cd src
+: 1567172885:0;ls
+: 1567172889:0;cd main
+: 1567172891:0;ls
+: 1567172893:0;cd java
+: 1567172894:0;ls
+: 1567172896:0;cd de
+: 1567172898:0;ls -al
+: 1567172909:0;cd stba
+: 1567172911:0;ls
+: 1567172914:0;cd e202
+: 1567172915:0;ls
+: 1567172918:0;cd zrw
+: 1567172919:0;ls
+: 1567172921:0;cd ms
+: 1567172922:0;ls
+: 1567172927:0;cd kennzeichen
+: 1567172928:0;ls
+: 1567172932:0;cd web
+: 1567172934:0;ls
+: 1567172965:0;cd ..
+: 1567172966:0;ls
+: 1567172969:0;ls -al
+: 1567172992:0;cd Kennz+
+: 1567173007:0;pwd
+: 1567173021:0;cd ..
+: 1567173027:0;ls
+: 1567173032:0;cd webapp
+: 1567173033:0;ls
+: 1567173035:0;ls -al
+: 1567173060:0;npm start
+: 1567173135:0;npm run serve:dev
+: 1567173998:0;ls
+: 1567174000:0;ls -al
+: 1567174007:0;npm run serve:dev
+: 1567174085:0;cd ..
+: 1567174094:0;ls
+: 1567174172:0;cd Projects
+: 1567174174:0;ls
+: 1567174183:0;cd Destatis
+: 1567174184:0;ls
+: 1567174190:0;cd JeromesCode
+: 1567174192:0;ls
+: 1567174196:0;cd dtest
+: 1567174197:0;ls
+: 1567174207:0;cd neu
+: 1567174208:0;ls
+: 1567174230:0;cd de.stba.e202.zrw.ms.kennzeichen
+: 1567174231:0;ls
+: 1567174238:0;cd webapp
+: 1567174239:0;ls
+: 1567174244:0;npm stop
+: 1567174288:0;npm lint
+: 1567174364:0;ps aux
+: 1567174403:0;ps aux | grep node
+: 1567174451:0;killall node
+: 1567174481:0;cd Projects
+: 1567174483:0;cd Destatis
+: 1567174487:0;cd JeromesCode
+: 1567174492:0;cd Code10.08
+: 1567174495:0;ls
+: 1567174507:0;cd de.stba.e202.zrw.ms.kennzeichen/k
+: 1567174510:0;cd de.stba.e202.zrw.ms.kennzeichen
+: 1567174513:0;cd webapp
+: 1567174514:0;ls
+: 1567174522:0;npm start
+: 1567198944:0;npm run serve:dev
+: 1567198954:0;ls
+: 1567198993:0;npm install
+: 1567199092:0;node --versionm
+: 1567199095:0;node --version
+: 1567235839:0;pwd
+: 1567235852:0;cd /
+: 1567235854:0;pwd
+: 1567326227:0;npm i
+: 1567326332:0;cd
+: 1567326337:0;tail .zsh_history -n 100
+: 1567326355:0;head .zsh_history -n 100
+: 1567326360:0;tail .zsh_history -n 100
+: 1567326363:0;tail .zsh_history -n 1000
+: 1567326373:0;cat .zsh_history
+: 1567326605:0;npm i --save-dev react react-dom
+: 1567326628:0;npm install --save-dev webpack-dev-server
+: 1567326654:0;npm install node-sass --save
+: 1567326680:0;npm run serve:dev
+: 1567327077:0;pwd
+: 1567327087:0;ls
+: 1567327094:0;ls -al
+: 1567327206:0;cd ..
+: 1567327208:0;ls
+: 1567327211:0;cd ..
+: 1567327212:0;ls
+: 1567327214:0;l
+: 1567327216:0;ls
+: 1567327228:0;cd de.stba.e202.zrw.ms.kennzeichen
+: 1567327229:0;ls
+: 1567327233:0;cd webapp
+: 1567327234:0;ls
+: 1567327242:0;npm run serve:dev
+: 1567327701:0;pwd
+: 1567327707:0;npm run serve:dev
+: 1567327849:0;npm i redux-saga-routines
+: 1567327859:0;npm run serve:dev
+: 1567327982:0;npm i --save axios redux-saga
+: 1567328002:0;npm run serve:dev
+: 1567328016:0;rm -r node_modules
+: 1567328024:0;npm i
+: 1567328120:0;git log
+: 1567328152:0;npm run serve:dev
+: 1567328833:0;npm rebuild node-sass
+: 1567328881:0;npm i node-sass --save
+: 1567328897:0;npm run serve:dev
+: 1567346339:0;pwd
+: 1567346427:0;cd /
+: 1567346433:0;ls
+: 1567346435:0;cd 
+: 1567346479:0;cat .zsh_history
+: 1567346513:0;cat .zsh_history > nodejs_installation
